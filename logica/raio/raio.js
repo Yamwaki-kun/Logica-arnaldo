@@ -1,5 +1,5 @@
 /**
- * @author arnadlo - nicolas
+ * @author arnaldo - nicolas
  */
 function calcularRaio() {
     let circunferencia, raio
