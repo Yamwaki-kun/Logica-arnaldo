@@ -1,5 +1,5 @@
 /**
- * @author arnadlo - nicolas
+ * @author arnaldo - nicolas
  */
 function calcularcelsius() {
     let celsius, fahrenheit
